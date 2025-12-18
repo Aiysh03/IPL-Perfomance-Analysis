@@ -17,6 +17,9 @@ This is a beginner-level data analysis project based on Indian Premier League (I
 9. How has match strategy (bat vs field) impacted results over seasons?
 10. What insights can be drawn about team performance from match outcomes?
 
+## Dashboard
+"C:\Users\aiysh\OneDrive\Documents\IPL\IPL Analysis PDF.pdf"
+
 ## SQL Queries used
 -- total matches played
 SELECT COUNT(*) AS Total_Matches
