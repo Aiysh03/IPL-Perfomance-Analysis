@@ -18,7 +18,7 @@ This is a beginner-level data analysis project based on Indian Premier League (I
 10. What insights can be drawn about team performance from match outcomes?
 
 ## Dashboard
-[📥 View IPL Analysis Report (PDF)](Report/IPL%20Analysis%20PDF.pdf)
+[📥 View IPL Analysis Report (PDF)](https://github.com/Aiysh03/IPL-Perfomance-Analysis/blob/main/IPL%20Analysis%20PDF.pdf)
 
 ## SQL Queries used
 -- total matches played
