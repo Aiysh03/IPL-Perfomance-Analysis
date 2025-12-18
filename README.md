@@ -68,5 +68,8 @@ WHERE Winner IS NOT NULL;
 - Creating interactive dashboards in Power BI
 - Converting raw data into meaningful insights
 
+## Conclusion
+This project helped me strengthen my data analysis fundamentals and gain hands-on experience using SQL and Power BI. It reflects my interest in data analytics and my ability to learn and apply analytical concepts as a fresher.
+
 
 
